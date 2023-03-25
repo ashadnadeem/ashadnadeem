@@ -153,16 +153,14 @@
 </table>
 
 
-### 🌐 React JS Web app Developed
+### 🌐 React JS/TS Web Apps Developed
 <table>
-  <tr>
-    <td align="Center">Reactify E-Store</td>
-  </tr>
-  <tr>
-    <td align="Center"><img src="https://user-images.githubusercontent.com/58692788/170362897-fa0bf804-184b-45c4-a4ad-263e97d2e886.jpeg" alt="Website Screenshot" width=380 height=220></td>
-  </tr>
-  <tr>
-    <td>Implemented Database concepts of create, read, update and delete to form an e-commerce website. Functionalities: Signup | Login | Cart | Wishlist | Order-History | Users Profile.
-    </td>
-  </tr>
+    <tr><td align="Center">Retro-Vegas: An Antique Store</td></tr>
+    <tr><td align="Center"><img src="https://user-images.githubusercontent.com/58692788/227735036-cf480d94-2e13-4af9-b827-a5273e5d7a60.gif" alt="Website Screen Recording" width=800 height=450></td></tr>
+    <tr><td>This project is built with ReactTS, NodeJS, MongoDB, and Elasticsearch. It is a web app based platform that allows users to search, buy and sell their antique items. The application uses Elasticsearch to provide fast and accurate search results. Functionalities: Signup | Login | Cart | Checkout | Favourtes | Users Profile.
+    </td></tr>
+  <tr><td align="Center">Reactify E-Store</td></tr>
+  <tr><td align="Center"><img src="https://user-images.githubusercontent.com/58692788/227735763-44efece9-2463-457c-bdb4-715ced3a3ca5.png" alt="Website Screenshot" width=800 height=450</td></tr>
+  <tr><td>Implemented Database concepts of create, read, update and delete to form an e-commerce website. Functionalities: Signup | Login | Cart | Wishlist | Order-History | Users Profile.
+    </td></tr>
 </table>

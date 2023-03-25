@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/ashad-nadeem-mahmudi-738753193//)**, **[Email](ashadnadeem@gmail.com)**
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/ashad-nadeem-mahmudi-738753193//)**, **[Email](ashadnadeem@gmail.com)** , **[Resume](https://1drv.ms/f/s!AjF3EMxD_Vfz4TCPVw21_SAXp9rH?e=YnPeHG)**.
 
 
 ## 👨‍💻 Languages:
@@ -44,6 +44,10 @@
     <a href="https://www.javascript.com" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/>
     </a>
+    <!-- Typescript -->
+    <a href="https://www.typescriptlang.org" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="type-script" width="40" height="40"/>
+    </a>
     <!-- Arduino -->
     <a href="https://www.arduino.cc" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="40" height="40"/>
@@ -68,6 +72,10 @@
     <!-- MongoDB -->
     <a href="https://www.mongodb.com/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>
+    </a>
+    <!-- Elasticsearch -->
+    <a href="https://www.elastic.co/" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="48" height="48"/>
     </a>
 </p>
 
@@ -127,7 +135,7 @@
   <tr>
     <td align="Center"><img src="https://user-images.githubusercontent.com/58692788/170363486-31cc6cf5-4249-49b0-8170-a68aedaf0778.gif" width=220 height=320>
     </td>
-    <td align="Center"><img src="https://user-images.githubusercontent.com/58692788/170363601-e11b098d-90ce-442d-9f14-f23ffc0747e5.gif" width=160 height=320>
+    <td align="Center"><img src="https://user-images.githubusercontent.com/58692788/227738837-4c269fbc-15f7-4cf9-98c3-191a59d48296.gif" width=160 height=320>
     </td>
   </tr>
   <tr>

@@ -1,16 +1,16 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Ashad+Nadeem!;I'm+a+Flutter+developer...;I'm+a+CRAZY+Marvel+fan;And+I'm+a+proud+Pakistani)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Ashad+Nadeem!;I'm+a+Fullstack+developer...;I'm+a+CRAZY+Marvel+fan;And+I+love+Coding)](https://git.io/typing-svg)
 
 
 ## 🙋‍♂️ About Me
 
-- 📝 I’m currently working on **Virtual try-on E-store**
+- 📝 I’m currently working on **Social E-commerce App**
 
-- 🌱 I’m currently learning **Flutter App developement.**
+- 🌱 I’m currently learning **Mobile App developement**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/ashad-nadeem-mahmudi-738753193//)**, **[Email](ashadnadeem@gmail.com)** , **[Resume](https://1drv.ms/f/s!AjF3EMxD_Vfz4TCPVw21_SAXp9rH?e=YnPeHG)**.
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/ashadnadeem/)**, **[Email](ashadnadeem@gmail.com)** , **[Resume](https://1drv.ms/f/s!AjF3EMxD_Vfz4TCPVw21_SAXp9rH?e=YnPeHG)**.
 
 
 ## 👨‍💻 Languages:

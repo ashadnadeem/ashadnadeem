@@ -127,6 +127,59 @@
 
 
 ### 📱 Flutter Apps Developed
+
+<table>
+  <tr>
+    <td align="Center">Sadiq.ai</td>
+  </tr>
+  <tr>
+    <td align="Center"><img src="![Presentfeatures-sellers-ezgif com-video-to-gif-converter (2)](https://github.com/user-attachments/assets/ab39af25-40ee-4cc6-85d0-021729e60407)
+" width=672 height=378>
+    </td>
+  </tr>
+  <tr>
+    <td>
+        <p>
+        Revolutionized the shopping experience with Innovative AI-powered app, packed with advance features, making seamless user experience for both buyers and sellers.</p>
+        <div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
+          <a href="https://play.google.com/store/apps/details?id=app.sadiq.ecom" target="_blank">
+            <img src="https://cloud.githubusercontent.com/assets/5692567/10923351/6b688a92-8278-11e5-9973-8ffbf3c5cc52.png" width=150 height=45>
+          </a>
+          <a href="https://apps.apple.com/app/sadiq-ai/id6477813163" target="_blank">
+            <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" width=150 height=45>
+          </a>
+        </div>
+        <br>
+        <b>Tech Stack:</b>
+        <ul>
+          <li><b>Frontend:</b> Flutter, Firebase (Storage, FCM, Crashlytics, Performance, App-Distribution), GoogleML-Kit</li>
+          <li><b>Backend:</b> Node.Js</li>
+          <li><b>AI/Machine-Learning:</b> Python, OpenAI LLMs, Gemini, DialogFlowCX</li>
+          <li><b>Devops Pipeline:</b> PM2, GitGuardian, Github Actions, Fastlane</li>
+          Completely automated the pipeline for build-test-deploy-publish on Appstore/Playstore
+          <li><b>Database and CDN:</b> Mongo-DB, Elasticsearch, Contentful</li> 
+          <li><b>Servers:</b> AWS, GCP, IONOS</li> 
+          <li><b>Realtime Communications:</b> Livekit.io, Socket.io</li> 
+          <li><b>3rd Party Integrations:</b> Paymob, TCS, LoadE, Trax, Postex, DeepAr</li> 
+        </ul>
+        <b>Top 10 Features:</b>
+        <ol>
+          <li>AI-powered personalized shopping recommendations for Posts and Reels</li>
+          <li>AR Virtual try-on for products</li>
+          <li>Live Body measurement by MlKits-Pose detection</li>
+          <li>Chatbot for 24/7 customer support</li>
+          <li>Live Commerce with livestreaming with Livekit.io</li>
+          <li>Secure integration with payment gateways</li>
+          <li>Seamless integration with multiple delivery providers</li>
+          <li>Real-time inventory/delivery updates</li>
+          <li>Easy 2 in 1 Profile switch for Buyers and Sellers</li>
+          <li>Seller Marketplace for quick order/inventory management</li>
+          And alot more... :)
+        </ol>
+    </td>
+  </tr>
+  
+</table>
 <table>
   <tr>
     <td align="Center">GOCART</td>

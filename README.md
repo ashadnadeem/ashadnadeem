@@ -133,8 +133,7 @@
     <td align="Center">Sadiq.ai</td>
   </tr>
   <tr>
-    <td align="Center"><img src="![Presentfeatures-sellers-ezgif com-video-to-gif-converter (2)](https://github.com/user-attachments/assets/ab39af25-40ee-4cc6-85d0-021729e60407)
-" width=672 height=378>
+    <td align="Center"><img src="https://github.com/user-attachments/assets/ab39af25-40ee-4cc6-85d0-021729e60407" width=672 height=378>
     </td>
   </tr>
   <tr>

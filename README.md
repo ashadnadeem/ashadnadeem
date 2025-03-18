@@ -18,7 +18,7 @@
 <p align="start"> 
     <!-- DotNet -->
     <a href="https://dotnet.microsoft.com/en-us" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="dotnet" width="80" height="40"/> 
+        <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-official.svg" alt="dotnet" width="40" height="40"/> 
     </a>
     <!-- Flutter -->
     <a href="https://flutter.dev" target="_blank"> 

@@ -86,6 +86,10 @@
 ## 🔨 Tools:
 
 <p align="start">
+    <!-- RabbitMq -->
+    <a href="https://www.rabbitmq.com/" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"alt="Rabbit MQ" width="40" height="40"/> 
+    </a> 
     <!-- Power BI -->
     <a href="https://www.python.org" target="_blank"> 
         <img src="https://img.icons8.com/color/48/000000/power-bi.png"alt="Power BI" width="40" height="40"/> 

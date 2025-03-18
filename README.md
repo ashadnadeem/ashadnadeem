@@ -1,12 +1,12 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Ashad+Nadeem!;I'm+a+Fullstack+developer...;I'm+a+CRAZY+Marvel+fan;And+I+love+Coding)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Ashad+Nadeem!;I'm+a+Fullstack+engineer...;I'm+a+CRAZY+Marvel+fan;And+I+love+Coding)](https://git.io/typing-svg)
 
 
 ## 🙋‍♂️ About Me
 
-- 📝 I’m currently working on **Social E-commerce App**
+- 📝 I’m currently working on **Fintech Solutions using .NET**
 
-- 🌱 I’m currently learning **Mobile App developement**
+- 🌱 I’m currently learning **Golang with Blockchain and Web3**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -16,6 +16,10 @@
 ## 👨‍💻 Languages:
 
 <p align="start"> 
+    <!-- DotNet -->
+    <a href="https://dotnet.microsoft.com/en-us" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="dotnet" width="80" height="40"/> 
+    </a>
     <!-- Flutter -->
     <a href="https://flutter.dev" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
@@ -108,7 +112,7 @@
     </a>
 </p>
 
-## 🖥️ Opeating Systems Familliar:
+## 🖥️ Opeating Systems:
 
 <p align="start">
     <!-- Windows -->
@@ -121,7 +125,7 @@
     </a>
     <!-- Kali -->
     <a href="https://www.kali.org/" target="_blank"> 
-        <img src="https://seeklogo.com/images/K/kali-linux-logo-5A3B1D1555-seeklogo.com.png" alt="kali" width="40" height="40"/>
+        <img src="https://upload.vectorlogo.zone/logos/kali/images/4f107199-98a3-43c2-9d1f-19af3082b59b.svg" alt="kali" width="40" height="40"/>
     </a>
 </p>
 
@@ -173,7 +177,7 @@
           <li>Real-time inventory/delivery updates</li>
           <li>Easy 2 in 1 Profile switch for Buyers and Sellers</li>
           <li>Seller Marketplace for quick order/inventory management</li>
-          And alot more... :)
+          <br><b>And alot more... :)</b>
         </ol>
     </td>
   </tr>

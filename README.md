@@ -98,9 +98,25 @@
     <a href="https://developer.android.com/" target="_blank"> 
         <img src="https://img.icons8.com/color/48/000000/android-studio.png" alt="Android Studio" width="40" height="40"/>
     </a>
+    <!-- Firebase -->
+    <a href="https://firebase.google.com/" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+    </a>
+    <!-- Google Play Console -->
+    <a href="https://play.google.com/console" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" alt="play-console" width="40" height="40"/>
+    </a>
+    <!-- Apple App Store -->
+    <a href="https://appstoreconnect.apple.com/" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/apple_appstore/apple_appstore-icon.svg" alt="apple-appstore" width="40" height="40"/>
+    </a>
     <!-- Visual Studio Code -->
     <a href="https://code.visualstudio.com/" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual Studio Code" width="40" height="40"/>
+    </a>
+    <!-- XCode -->
+    <a href="https://developer.apple.com/xcode/" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" alt="apple-xcode" width="40" height="40"/>
     </a>
     <!-- Knime -->
     <a href="https://www.knime.com/" target="_blank"> 
@@ -126,6 +142,10 @@
     <!-- Ubuntu -->
     <a href="https://www.ubuntu.com/" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"/>
+    </a>
+    <!-- MacOs -->
+    <a href="https://www.apple.com/macos" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="mac-os" width="40" height="40"/>
     </a>
     <!-- Kali -->
     <a href="https://www.kali.org/" target="_blank"> 

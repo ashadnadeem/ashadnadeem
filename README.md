@@ -12,6 +12,52 @@
 
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/ashadnadeem/)**, **[Email](ashadnadeem@gmail.com)** , **[Resume](https://1drv.ms/f/s!AjF3EMxD_Vfz4TCPVw21_SAXp9rH?e=YnPeHG)**.
 
+## 💼 Work Experience  
+
+### 🔹 **Software Engineer - Backend**  
+📍 [**HALA (KSA - Remote)**](https://hala.com/) | 🗓️ *Oct 2024 - Present*  
+
+<details>
+  <summary>View Responsibilities</summary>
+  
+- Implemented a **communication layer** using the **Adapter Pattern** and **Clean Architecture** in **.NET**, enabling seamless microservice interaction while ensuring scalability and maintainability.  
+- Integrated **RabbitMQ with brokers** to enable **efficient, reliable message passing** between distributed services, improving **real-time data processing** and system resilience.  
+
+</details>  
+
+### 🔹 **Senior Software Engineer & Team Lead**  
+📍 [**Sadiq.ai (USA - Remote)**](https://sadiq.ai/) | 🗓️ *Sep 2022 - Sep 2024* | [🔗View Product](#sadiq-ai-product)
+
+<details>
+  <summary>View Responsibilities</summary>
+  
+- Developed an **AI-powered e-commerce app** with:  
+  - **AR Virtual Try-On** using **DeepAR**  
+  - **AI Chatbot with Intent Matching & RAG** using **Google Dialogflow CX**  
+  - **Live Body Measurement** with **Google’s MLKit Pose Detection**  
+  - **Google Maps integration & Multi-Provider Delivery Support**  
+- Built **real-time features**, including **live chat (Socket.io)** and **livestreaming (LiveKit.io)**.  
+- Managed **12 AWS & GCP servers**, implementing **CI/CD pipelines** and enforcing **security policies**.  
+- Designed a **scalable backend architecture** with **Node.js, Python, MongoDB, and Elasticsearch**.  
+- Automated **build-test-release** processes for **Google Play & App Store** using **GitHub Actions**.  
+- Developed a **Next.js web app** with **SEO-optimized dynamic metadata rendering**.  
+- Led a **diverse engineering team**, promoting **reusable code**, **code reviews**, and **pre-commit GitGuardian checks**.  
+- Collaborated with **product, design, and founders** to translate business requirements into technical solutions.  
+- Established **Jira ticketing system**, **repo protection rules**, and integrated **Slack updates**.  
+
+</details>  
+
+### 🔹 **Software Engineer Intern**  
+📍 [**10Pearls (PK)**](https://10pearls.com) | 🗓️ *Jun 2022 - Aug 2022*  
+
+<details>
+  <summary>View Responsibilities</summary>
+  
+- Gained hands-on experience in **scalable software development** using **JavaScript & TypeScript**.  
+- Developed a **fully functional mobile app**, applying best practices in **project management & agile workflows**.  
+
+</details>  
+
 
 ## 👨‍💻 Languages:
 
@@ -156,6 +202,7 @@
 
 ### 📱 Flutter Apps Developed
 
+#### <a id="sadiq-ai-product"></a>
 <table>
   <tr>
     <td align="Center">Sadiq.ai</td>

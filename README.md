@@ -6,11 +6,11 @@
 
 - 📝 I’m currently working on **Fintech Solutions using .NET**
 
-- 🌱 I’m currently learning **Golang with Blockchain and Web3**
+- 🌱 I’m currently learning **AI Automation with IOT**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/ashadnadeem/)**, **[Email](ashadnadeem@gmail.com)** , **[Resume](https://1drv.ms/f/s!AjF3EMxD_Vfz4TCPVw21_SAXp9rH?e=YnPeHG)**.
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/ashadnadeem/)**, **[Email](ashadnadeem@gmail.com)** , **[Resume](https://1drv.ms/f/s!AjF3EMxD_Vfz4TCPVw21_SAXp9rH?e=YnPeHG)**, **[Medium](https://medium.com/@ashadnadeem_19083)**.
 
 ## 💼 Work Experience  
 
@@ -19,9 +19,14 @@
 
 <details>
   <summary>View Responsibilities</summary>
-  
-- Implemented a **communication layer** using the **Adapter Pattern** and **Clean Architecture** in **.NET**, enabling seamless microservice interaction while ensuring scalability and maintainability.  
-- Integrated **RabbitMQ with brokers** to enable **efficient, reliable message passing** between distributed services, improving **real-time data processing** and system resilience.  
+
+- Developed a **CommsLayer Service** based on the Mediator Pattern, enabling secure, scalable **cross-cluster communication between RabbitMQ instances via HTTPS** for asynchronous operations across tenancies and clusters. [Medium](https://medium.com/@ashadnadeem_19083/comms-layer-building-a-resilient-communication-layer-for-distributed-microservices-2510e93f765f)
+- Led 3rd Party Supplier Integrations with multiple clients, conducting requirement analysis and implementing seamless onboarding solutions for integrating Hala’s payment request system into partner platforms.
+- Engineered the Supplier Integrations module to track **SoftPOS payment sessions end-to-end**, ensuring accurate lifecycle auditing and transaction reconciliation, collaborated with mobile teams for integration into the Hala-Business app.
+- Implemented merchant/supplier **blacklisting and suspension flows**, including bulk suspension with CSV parsing (Backend: .NET, Frontend: Angular), enhancing fraud control and compliance.
+- Built **Nafath** authentication flow integration for secure digital identity verification within the supplier onboarding process. [Notion](https://www.notion.so/Nafath-Flow-2a2ac6db7dcf8008b967cb95a52c734c)
+- Worked on mocking **HyperPay Payment Gateway** for internal testing, enabling faster QA cycles and decoupled integration validation. [Notion](https://www.notion.so/Hyper-Pay-Service-2a1ac6db7dcf80beb62edf225387d1c7)
+- Designed and implemented transaction recording and reporting flows, including statement generation in CSV, XLSX, and PDF formats. 
 
 </details>  
 
@@ -90,6 +95,10 @@
     <a href="https://reactjs.org" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>
     </a>
+    <!-- Angular -->
+    <a href="https://angular.dev" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40"/>
+    </a>
     <!-- Javascript -->
     <a href="https://www.javascript.com" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/>
@@ -118,6 +127,10 @@
     <!-- SQL -->
     <a href="https://www.mysql.com/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+    </a>
+    <!-- Postgres -->
+    <a href="https://www.postgresql.org/" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="40" height="40"/> 
     </a>
     <!-- MongoDB -->
     <a href="https://www.mongodb.com/" target="_blank"> 
@@ -199,6 +212,15 @@
     </a>
 </p>
 
+## 🖥️ Third Party Integrations:
+### 💰 Payment Gateways:
+  <li><a href="https://www.hyperpay.com"><b>Hyperpay</b></a> - A secure, PCI-compliant payment gateway supporting multiple payment methods and regional currencies, also worked on integration with saved cards and Soft-POS. <a href="https://www.notion.so/Hyper-Pay-Service-2a1ac6db7dcf80beb62edf225387d1c7"> Notion</a></li>
+  <li><a href="https://paymob.pk/"><b>PayMob</b></a> - Integrated gateway on Frontend, and securely used webhooks to perform multiple payment methods including Visa/Mastercard, JazzCash, EasyPaisa.</li>
+
+### ⚙️ Others:
+  <li><a href="https://www.iam.gov.sa"><b>Nafath</b></a> - Saudi National digital identity system that provides a secure, unified central access point for citizens and residents. Integrated and Designed Nafath flow to verify user accross multiple services, along with <b>SignalR Hub</b> to seamlessly verify user.<a href="https://www.notion.so/Nafath-Flow-2a2ac6db7dcf8008b967cb95a52c734c"> Notion</a></li>
+
+## Apps Developed
 
 ### 📱 Flutter Apps Developed
 

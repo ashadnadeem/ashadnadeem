@@ -14,8 +14,18 @@
 
 ## 💼 Work Experience  
 
-### 🔹 **Software Engineer - Backend**  
-📍 [**HALA (KSA - Remote)**](https://hala.com/) | 🗓️ *Oct 2024 - Present*  
+<table>
+  <tr>
+    <td width="100" valign="middle">
+      <img src="https://cdn.brandfetch.io/hala.com/logo?c=1bfwsmEH20zzEfSNTed" alt="HALA Logo" />
+    </td>
+    <td valign="middle" width="600">
+      <h3>🔹 <strong>Software Engineer - Backend</strong></h3>
+      <p>📍 <a href="https://hala.com/"><strong>HALA (KSA - Remote)</strong></a> | 🗓️ <em>Oct 2024 - Present</em></p>
+    </td>
+  </tr>
+</table>
+
 
 <details>
   <summary>View Responsibilities</summary>
@@ -30,8 +40,18 @@
 
 </details>  
 
-### 🔹 **Senior Software Engineer & Team Lead**  
-📍 [**Sadiq.ai (USA - Remote)**](https://sadiq.ai/) | 🗓️ *Sep 2022 - Sep 2024* | [🔗View Product](#sadiq-ai-product)
+<table>
+  <tr>
+    <td width="100" valign="middle">
+      <img src="https://cdn.brandfetch.io/sadiq.ai?c=1bfwsmEH20zzEfSNTed"  alt="Sadiq Ai Logo" />
+    </td>
+    <td width="600" valign="middle">
+      <h3>🔹 <strong>Senior Software Engineer & Team Lead</strong></h3>
+      <p>📍 <a href="https://sadiq.ai/"><strong>Sadiq.ai (USA - Remote)</strong></a> | 🗓️ <em>Sep 2022 - Sep 2024 </em>
+       | 🔗 <a href="#sadiq-ai-product">View Product</a></p>
+    </td>
+  </tr>
+</table>
 
 <details>
   <summary>View Responsibilities</summary>
@@ -52,8 +72,17 @@
 
 </details>  
 
-### 🔹 **Software Engineer Intern**  
-📍 [**10Pearls (PK)**](https://10pearls.com) | 🗓️ *Jun 2022 - Aug 2022*  
+<table>
+  <tr>
+    <td width="100" valign="middle" outline="0px">
+      <img src="https://cdn.brandfetch.io/10pearls.com?c=1bfwsmEH20zzEfSNTed" alt="10Pearls Logo" />
+    </td>
+    <td width="600" valign="middle">
+      <h3>🔹 <strong>Software Engineer Intern</strong></h3>
+      <p>📍 <a href="https://10pearls.com"><strong>10Pearls (PK)</strong></a> | 🗓️ <em>Jun 2022 - Aug 2022</em></p>
+    </td>
+  </tr> 
+</table>
 
 <details>
   <summary>View Responsibilities</summary>
@@ -62,6 +91,7 @@
 - Developed a **fully functional mobile app**, applying best practices in **project management & agile workflows**.  
 
 </details>  
+
 
 
 ## 👨‍💻 Languages:
@@ -212,13 +242,15 @@
     </a>
 </p>
 
-## 🖥️ Third Party Integrations:
+
+## 🔌 Third Party Integrations:
 ### 💰 Payment Gateways:
-  <li><a href="https://www.hyperpay.com"><b>Hyperpay</b></a> - A secure, PCI-compliant payment gateway supporting multiple payment methods and regional currencies, also worked on integration with saved cards and Soft-POS. <a href="https://www.notion.so/Hyper-Pay-Service-2a1ac6db7dcf80beb62edf225387d1c7"> Notion</a></li>
-  <li><a href="https://paymob.pk/"><b>PayMob</b></a> - Integrated gateway on Frontend, and securely used webhooks to perform multiple payment methods including Visa/Mastercard, JazzCash, EasyPaisa.</li>
+  **[Hyperpay](https://www.hyperpay.com)** - A secure, PCI-compliant payment gateway supporting multiple payment methods and regional currencies, also worked on integration with saved cards and Soft-POS. [Notion](https://www.notion.so/Hyper-Pay-Service-2a1ac6db7dcf80beb62edf225387d1c7)
+
+  **[PayMob](https://paymob.pk)** - Integrated gateway on Frontend, and securely used webhooks to perform multiple payment methods including Visa/Mastercard, JazzCash, EasyPaisa.
 
 ### ⚙️ Others:
-  <li><a href="https://www.iam.gov.sa"><b>Nafath</b></a> - Saudi National digital identity system that provides a secure, unified central access point for citizens and residents. Integrated and Designed Nafath flow to verify user accross multiple services, along with <b>SignalR Hub</b> to seamlessly verify user.<a href="https://www.notion.so/Nafath-Flow-2a2ac6db7dcf8008b967cb95a52c734c"> Notion</a></li>
+  **[Nafath](https://www.iam.gov.sa)** - Saudi National digital identity system that provides a secure, unified central access point for citizens and residents. Integrated and Designed Nafath flow to verify user accross multiple services, along with **SignalR Hub** to seamlessly verify user. [Notion](https://www.notion.so/Nafath-Flow-2a2ac6db7dcf8008b967cb95a52c734c)
 
 ## Apps Developed
 
